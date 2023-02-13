@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "StatusMicroservice": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "applicationUrl": "http://localhost:4999;https://localhost:35095",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
